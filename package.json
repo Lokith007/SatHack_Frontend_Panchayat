@@ -1,6 +1,6 @@
 
   {
-      "name": "Interactive Water Usage Dashboard",
+      "name": "JalNetra",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
